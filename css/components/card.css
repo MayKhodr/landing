@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+
+.card img {
+  height: 100px;
+}
+
+.card {
+  box-shadow: 0 0 5px lightgrey;
+  border-radius: 3px;
+  padding: 20px;
+  border: 1px solid lightgrey;
+  text-align: center;
+  width: 200px;
+}
+
+.card p {
+  opacity: 0.6;
+}
+

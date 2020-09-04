@@ -1,0 +1,10 @@
+.container {
+  /*border: 1px red solid;*/
+  width:900px;
+  margin: auto;
+
+}
+
+.container h2 {
+  text-align: center;
+}
